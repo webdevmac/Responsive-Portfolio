@@ -243,14 +243,18 @@
             float: left;
         
     }
-
+    a {
+        text-decoration: none;
+        color: #fff;
+    }
 
     .labelhtml, 
     .labelcss, 
     .labelbootstrap, 
     .labeljavascript,
-    .labelgithub {
-
+    .labelgithub,
+    .labelstarwars {
+        
         background-color: #4aaaa5;
         color: #fff;
         position: relative;
@@ -334,7 +338,17 @@
         margin-top: 10px;
         margin-bottom: 10px;
     }
-    
+    .img6 {
+        
+        background-image: url("../images/DarthVader.jpg");
+        padding: 0px;
+        width: 100px;
+        height: 80px;
+        margin-right: 20px;
+        margin-left: 0px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
     
    
     #img {
