@@ -237,12 +237,19 @@
 
 
     
-        .layout1, .layout2 {
+        .layout1, .layout2  {
             width: 20%;
             margin: 0px 0px 0px 0px;
             float: left;
         
     }
+        .layout3 {
+            width: 20%;
+            margin: 0px 0px 0px 0px;
+            float: left;
+           
+        
+}
     a {
         text-decoration: none;
         color: #fff;
@@ -253,6 +260,7 @@
     .labelbootstrap, 
     .labeljavascript,
     .labelgithub,
+    .labeltriviaGame,
     .labelstarwars {
         
         background-color: #4aaaa5;
@@ -341,6 +349,17 @@
     .img6 {
         
         background-image: url("../images/DarthVader.jpg");
+        padding: 0px;
+        width: 100px;
+        height: 80px;
+        margin-right: 20px;
+        margin-left: 0px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .img7 {
+        
+        background-image: url("../images/giphy.webp");
         padding: 0px;
         width: 100px;
         height: 80px;
@@ -525,7 +544,7 @@
     @media screen and (max-width: 980px) {  
         .footer {
             position:relative;
-            bottom: 300px;
+            bottom: 120px;
             height: 50px;
             background-color: #666666;
             padding: 5px;
@@ -631,7 +650,7 @@
     @media screen and (max-width: 640px) {
         .contentP {
            width: 100%;
-           height: 60%;
+           height: 80%;
             
         }
     }
