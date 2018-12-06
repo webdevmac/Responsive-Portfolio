@@ -243,7 +243,7 @@
             float: left;
         
     }
-        .layout3 {
+        .layout3, .layout4 {
             width: 20%;
             margin: 0px 0px 0px 0px;
             float: left;
@@ -261,7 +261,8 @@
     .labeljavascript,
     .labelgithub,
     .labeltriviaGame,
-    .labelstarwars {
+    .labelstarwars,
+    .labelgiftastic {
         
         background-color: #4aaaa5;
         color: #fff;
@@ -360,6 +361,17 @@
     .img7 {
         
         background-image: url("../images/giphy.webp");
+        padding: 0px;
+        width: 100px;
+        height: 80px;
+        margin-right: 20px;
+        margin-left: 0px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .img8 {
+        
+        background-image: url("../images/200.webp");
         padding: 0px;
         width: 100px;
         height: 80px;
