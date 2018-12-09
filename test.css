@@ -411,16 +411,7 @@
         padding: 8px 0 0 0;
         color: #777777;
     }
-    .footer {
-        position:relative;
-        bottom: 50px;
-        height: 50px;
-        background-color: #666666;
-        padding: 5px;
-        border-top: 8px solid #4aaaa5;
-        text-align: center;
 
-}
 
 
 
@@ -503,7 +494,7 @@
         .full {
            
            background-image: url("../images/concrete_seamless.png");
-           height: 1160px;
+           height: 960px;
            width: 100%;
            margin: none;
            padding: none;
@@ -575,7 +566,7 @@
     @media screen and (max-width: 980px) {  
         .footer {
             position:relative;
-            bottom: 5px;
+            bottom: 120px;
             height: 50px;
             background-color: #666666;
             padding: 5px;
