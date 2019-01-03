@@ -1,1 +1,3 @@
-# Responsive-Portfolio is my homework assignment due on 11-7-18.
+# Responsive-Portfolio is my Portfolio.
+Languages used are HTML, CSS and Bootstrap.
+Mobile Responsive.
