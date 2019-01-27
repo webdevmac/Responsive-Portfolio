@@ -265,7 +265,8 @@
     .labelgiftastic,
     .labelTrain,
     .labelRouteVisor,
-    .labelLiri {
+    .labelLiri,
+    .labelAmazonStore {
         
         background-color: #4aaaa5;
         color: #fff;
@@ -409,6 +410,17 @@
     .img11 {
         
         background-image: url("../images/nodejs.png");
+        padding: 0px;
+        width: 100px;
+        height: 80px;
+        margin-right: 20px;
+        margin-left: 0px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .img12 {
+        
+        background-image: url("../images/MySql.png");
         padding: 0px;
         width: 100px;
         height: 80px;
