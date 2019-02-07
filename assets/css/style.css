@@ -249,7 +249,14 @@
             float: left;
            
         
-}
+    }
+        .layout5 {
+            width: 20%;
+            margin: 0px 0px 0px 0px;
+            float: left;
+   
+
+    }
     a {
         text-decoration: none;
         color: #fff;
@@ -266,7 +273,8 @@
     .labelTrain,
     .labelRouteVisor,
     .labelLiri,
-    .labelAmazonStore {
+    .labelAmazonStore,
+    .labelFriendFinder {
         
         background-color: #4aaaa5;
         color: #fff;
@@ -421,6 +429,18 @@
     .img12 {
         
         background-image: url("../images/MySql.png");
+        padding: 0px;
+        width: 100px;
+        height: 80px;
+        margin-right: 20px;
+        margin-left: 0px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .img13 {
+        
+        background-image: url("../images/friendfinder.jpg");
         padding: 0px;
         width: 100px;
         height: 80px;
