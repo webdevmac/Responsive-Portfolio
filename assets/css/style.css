@@ -275,7 +275,8 @@
     .labelLiri,
     .labelAmazonStore,
     .labelFriendFinder,
-    .labelBurger {
+    .labelBurger,
+    .labelPad {
         
         background-color: #4aaaa5;
         color: #fff;
@@ -453,6 +454,17 @@
     .img14 {
         
         background-image: url("../images/burger.png");
+        padding: 0px;
+        width: 100px;
+        height: 80px;
+        margin-right: 20px;
+        margin-left: 0px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .img15 {
+        
+        background-image: url("../images/logo.png");
         padding: 0px;
         width: 100px;
         height: 80px;
